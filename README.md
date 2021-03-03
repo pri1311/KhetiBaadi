@@ -24,6 +24,10 @@ products/brands, in a particular location, dealers with particular products
 in-stock
 9. What is my soil health?
 
+##Screenshots
+<img src="https://github.com/pri1311/KhetiBadi/blob/master/Screenshots/image1.jpeg">
+<img src="https://github.com/pri1311/KhetiBadi/blob/master/Screenshots/image2.jpeg">
+
 ## Challenges we ran into
 - Difficult to implement voice assistant with different languages and variation in human phrases.
 - Integrating flask with flutter
