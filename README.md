@@ -24,7 +24,7 @@ products/brands, in a particular location, dealers with particular products
 in-stock
 9. What is my soil health?
 
-##Screenshots
+## Screenshots
 <img src="https://github.com/pri1311/KhetiBadi/blob/master/Screenshots/image1.jpeg">
 <img src="https://github.com/pri1311/KhetiBadi/blob/master/Screenshots/image2.jpeg">
 
